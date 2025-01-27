@@ -29,7 +29,7 @@ const DEVICES = {
 const GAMES = {
     "mpl-bingo": {
         name: "MPL Bingo",
-        url: "https://mpl-bingo.vercel.app/",
+        url: "https://nimble-tiramisu-80ba8b.netlify.app/",
         defaultDevice: "iphone-se",
         defaultOrientation: "portrait"
     },
@@ -41,7 +41,7 @@ const GAMES = {
 const DEFAULT_CONFIG = {
     defaultDevice: "iphone-se",
     defaultOrientation: "portrait",
-    defaultGame: "seek-find-winter-bear-english",
+    defaultGame: "mpl-bingo",
     iframePadding: 20,
     qrCodeSize: 128,
     mobileBreakpoint: 768
