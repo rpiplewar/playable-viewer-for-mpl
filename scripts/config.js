@@ -29,7 +29,7 @@ const DEVICES = {
 const GAMES = {
     "mpl-bingo": {
         name: "MPL Bingo",
-        url: "https://nimble-tiramisu-80ba8b.netlify.app/",
+        url: "https://sweet-douhua-51c7f4.netlify.app/",
         defaultDevice: "iphone-se",
         defaultOrientation: "portrait"
     },
