@@ -33,6 +33,13 @@ const GAMES = {
         defaultDevice: "iphone-se",
         defaultOrientation: "portrait"
     },
+    "mpl-bingo-direct": {
+        name: "MPL Bingo Cartoon Direct",
+        url: "https://legendary-croissant-1226ec.netlify.app/",
+        defaultDevice: "iphone-se",
+        defaultOrientation: "portrait"
+    },
+    
    
     // Add more games here
 };
