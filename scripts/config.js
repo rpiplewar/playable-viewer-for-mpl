@@ -27,20 +27,12 @@ const DEVICES = {
 
 // Game configurations
 const GAMES = {
-    "mpl-bingo": {
-        name: "MPL Bingo",
-        url: "https://sweet-douhua-51c7f4.netlify.app/",
+    "scopely": {
+        name: "Yahtzee",
+        url: "https://68017e1c76911e11ed19413f--precious-strudel-31d2e2.netlify.app/",
         defaultDevice: "iphone-se",
         defaultOrientation: "portrait"
     },
-    "mpl-bingo-direct": {
-        name: "MPL Bingo Cartoon Direct",
-        url: "https://legendary-croissant-1226ec.netlify.app/",
-        defaultDevice: "iphone-se",
-        defaultOrientation: "portrait"
-    },
-    
-   
     // Add more games here
 };
 
